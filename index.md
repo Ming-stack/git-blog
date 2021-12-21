@@ -1,8 +1,15 @@
 ## 技术栈
 * HTML
-  * [全局标签](/git-blog/html/global)
+  * [浏览器配置标签](/git-blog/html/config)
   * [布局标签](/git-blog/html/layout)
-  * [细节标签](/git-blog/html/details)
+  * [文本标签](/git-blog/html/text)
+  * [多媒体](/git-blog/html/media)
+  * [交互](/git-blog/html/interactive)
+  * [Web components](/git-blog/html/component)
+  * [表单](/git-blog/html/form)
+  * [表格](/git-blog/html/table)
+  * [脚本](/git-blog/html/script)
+  * [内嵌](/git-blog/html/embed)
 * CSS
 * JavaScript
 * jQuery
