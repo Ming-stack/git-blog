@@ -1,5 +1,8 @@
 ## 技术栈
-* HTML
+* HTMLt
+  * [全局标签](/html/global)
+  * [布局标签](/html/layout)
+  * [细节标签](/html/details)
 * CSS
 * JavaScript
 * jQuery
