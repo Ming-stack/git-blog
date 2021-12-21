@@ -1,5 +1,5 @@
 ## 技术栈
-* HTMLt
+* HTML
   * [全局标签](/html/global)
   * [布局标签](/html/layout)
   * [细节标签](/html/details)
