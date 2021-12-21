@@ -14,6 +14,7 @@
 ## dialog
 > 对话框(弹出层)
 > 可以和js互动 变成像UI框架的弹出层
+
 ```html
 <dialog open>
   <p>Greetings, one and all!</p>
