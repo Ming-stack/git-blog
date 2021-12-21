@@ -13,6 +13,29 @@
 <article>....</article>
 ```
 
+### div
+> 通用布局标签
+
+```html
+<div>....</div>
+```
+
+### aside
+> 某内容的一部分
+
+```html
+<header>
+    <aside></aside>
+</header>
+```
+
+### header
+> 广义的"页头"
+
+```html
+<header>....</header>
+```
+
 ### footer
 > 广义的"页脚"
 

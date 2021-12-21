@@ -1,8 +1,8 @@
 ## 技术栈
 * HTML
-  * [全局标签](/html/global)
-  * [布局标签](/html/layout)
-  * [细节标签](/html/details)
+  * [全局标签](/git-blog/html/global)
+  * [布局标签](/git-blog/html/layout)
+  * [细节标签](/git-blog/html/details)
 * CSS
 * JavaScript
 * jQuery
