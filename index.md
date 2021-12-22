@@ -29,36 +29,69 @@
   * [内置规则](/git-blog/CSS/rules)
   * [3D](/git-blog/CSS/3D)
 * JavaScript
+  * [基础](/git-blog/javascript/basic)
+  * [高级](/git-blog/javascript/high)
+  * [Web Api](/git-blog/javascript/webApi)
 * jQuery
+  * 简化js操作, 并且兼容各个浏览器
 * BootStrap
+  * 响应式网页制作
 * Git
+  * 代码管理
 * ECharts
+  * 数据可视化
 * Mobile
+  * 移动Web端知识
 * Node
+  * 后台
 * Express
+  * 简化Node
 * Koa
+  * 简化Node
 * Webpack
+  * 打包资源
 * Vue
+  * 组件化, 单页面
 * React
+  * 组件化, 单页面
 * Angular
+  * 组件化, 单页面
 * Egg.js
+  * Nodejs框架
 * Nest.js
+  * Nodejs框架
 * Next.js
+  * React SSR
 * Nuxt.js
+  * Vue SSr
 * React Native
+  * 手机app开发
 * uni-app
+  * 跨端app开发
 * Wechat
+  * 微信小程序
 * PHP
+  * 后台
 * Axios
+  * 数据请求
 * TypeScript
+  * 强类型
 * Linux
+  * 系统
 * Flutter
+  * 跨端
 * PWA
+  * 单页
 * MySQL
+  * 数据库
 * MongoDB
+  * 数据库
 * NPM
+  * 包管理
 * SCSS
+  * css编程语言
 * Element-UI
+  * UI框架
 
 ## markdown 模板
 ```markdown
