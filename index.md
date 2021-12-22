@@ -92,6 +92,11 @@
   * css编程语言
 * Element-UI
   * UI框架
+* 算法
+  * [队列](/git-blog/Algorithm/queue)
+  * [集合](/git-blog/Algorithm/set)
+  * [链表](/git-blog/Algorithm/linkList)
+  * [栈](/git-blog/Algorithm/stack)
 
 ## markdown 模板
 ```markdown
